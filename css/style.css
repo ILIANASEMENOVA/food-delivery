@@ -1,0 +1,29 @@
+.list{list-style: none;}
+.link{text-decoration: none;}
+body{margin: 0;}
+h1,
+h2,
+h3,
+h4,
+p{margin-top: 0;
+margin-bottom: 0;}
+ul,ol{margin-top: 0;
+margin-bottom: 0;
+padding-left: 0;}
+button{cursor: pointer;}
+img{display: block;}
+
+:root {
+    --main-font-family: 'Roboto', sans-serif;
+    --primary-color: #2c2c2c;
+    --secondary-color: #bbf330;
+    --accent-color-yellow: #ffe450;
+}
+
+
+.container {
+    width: 1280px;
+    margin: auto;
+    padding: 16px;
+    
+}
